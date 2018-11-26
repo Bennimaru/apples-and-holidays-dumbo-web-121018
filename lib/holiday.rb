@@ -57,7 +57,6 @@ def all_winter_holiday_supplies(holiday_hash)
   holiday_hash[:winter].collect do |holiday,supplies|
     winter_season_supplies.push(supplies)
   end
-  binding.pry
   winter_season_supplies 
 end
 
