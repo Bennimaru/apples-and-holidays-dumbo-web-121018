@@ -58,7 +58,7 @@ def all_winter_holiday_supplies(holiday_hash)
     winter_season_supplies.push(supplies)
   end
   
-  winter_season_supplies.flatten
+  
   
 end
 
